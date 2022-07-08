@@ -9,6 +9,6 @@ app.use("/",function(req,res){
 })
 app.use("/api",detailsRouter1)
 
-app.listen(3001,()=>{
+app.listen(process.env.PORT||8000,()=>{
     console.log("started the serever");
 })
