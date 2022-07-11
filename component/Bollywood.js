@@ -9,7 +9,7 @@ const get = (req,res)=>{
          
               }
         {
-            "id": 3,
+            "id": 2,
             "title": "Ranbir Kapoor gets MASSIVELY TROLLED",
             "Image":  "https://st1.bollywoodlife.com/wp-content/uploads/2022/07/Ranbir-Kapoor-Alia-Bhatt-airport1.png",
             "category": "Bollywood",
@@ -25,7 +25,7 @@ const get = (req,res)=>{
           },
           
           {
-            "id": 2,
+            "id": 3,
             "title": "RRR movie is wow",
             "Image": "https://images.hindustantimes.com/img/2021/11/10/1600x900/RRR_1636548612389_1636548617309.PNG",
             "category": "Bollywood",
