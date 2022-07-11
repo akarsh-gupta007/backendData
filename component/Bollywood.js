@@ -2,18 +2,20 @@ const get = (req,res)=>{
     res.send([
         {
             "id": 1,
+            "title": "Shah Rukh Khan, Salman Khan and Madhuri Dixit's selfie has fans recalling Hum Tumhare Hai Sanam",
+            "Image": "https://filmfare.wwmindia.com/content/2022/may/shahrukhkhan41653712635.jpg",
+            "category": "Bollywood",
+            "description": "Karan Johar's 50th birthday bash was one big star-studded celebration. The evening saw a bevvy of Bollywood celebrities making an appearance and with so many biggies coming together, reunions were inevitable. Now, a selfie of Shah Rukh Khan, Salman Khan and Madhuri Dixit has emerged and fans are obsessed.The picture from the party sees Salman Khan flanked by Madhuri Dixit and Shah Rukh Khan. Joining them were Madhuri's husband Shriram Nene and Shah Rukh Khan's wife Gauri Khan. The Fame Game star took to Instagram to share the priceless photo in a post captioned, “So much to talk about, right? @drneneofficial @iamsrk @beingsalmankhan @gaurikhan. Fans cannot get enough of the picture. One fan commented on the sheer star power and wrote, “All Legends in one frame”. While many were thrilled to get a glimpse of Shah Rukh Khan and Salman Khan together, others recalled that the two stars appeared alongside Madhuri Dixit in Hum Tumhare Hai Sanam. The 2002 film was a romantic drama that revolved around a love triangle. Moreover, the pic also sparked nostalgia for Hum Aapke Hai Koun which saw Madhuri and Salman share screen space in an iconic pairing.Karan Johar’s birthday bash had several memorable moments. While Shah Rukh Khan did not walk the red carpet, videos of him dancing like nobody’s watching on Koi Mil Gaya from Kuch Kuch Hota Hai surfaced later. Meanwhile, Salman Khan who was one of the last guests to arrive reportedly stayed at the party till the morning."
+         
+              }
+        {
+            "id": 2,
             "title": "Ranbir Kapoor gets MASSIVELY TROLLED",
             "Image":  "https://st1.bollywoodlife.com/wp-content/uploads/2022/07/Ranbir-Kapoor-Alia-Bhatt-airport1.png",
             "category": "Bollywood",
             "description": "Finally, the love birds and mom and dad-to-be, Alia Bhatt and Ranbir Kapoor were reunited as the Rocky Aur Rani Ki Prem Kahani actress returned to the bay after wrapping up Jamie Dornan and Gal Gadot starrer Heart of Stone. Alia Bhatt was in for a surprise as Ranbir had already been waiting for her arrival at the airport. Just a couple of days ago, Alia Bhatt had slammed reports of Ranbir going to pick Alia from her shoot location. However, she was in for a pleasant surprise when she saw him in the car. While it was a merry reunion of two lovebirds and soon-to-be parents, it is sad to see Ranbir getting massive flak online. It's for his posture and his drunk look. The paparazzi were waiting for Alia Bhatt at the airport when she came back after her professional trip abroad. They all thronged Alia and wished her on her pregnancy announcement. Alia received them all warmly and was visibly touched on seeing the outpour of love and warmth from the paps for her, Ranbir Kapoor and their baby. Alia Bhatt was unaware that Ranbir Kapoor was waiting for her in his car. Ranbir was seen engrossed in his phone. He did greet the paparazzi though he didn't come out of his car. We wonder if he was talking to Alia Bhatt on chat before surprising her at the airport.A lot has been said about Alia Bhatt, Ranbir Kapoor, and her pregnancy announcement within a couple of months after their wedding. Let's just keep love in mind, they are in love, they are expecting their first child together, let's celebrate that instead of churning out negativity all the time. "
           },
-          {
-            "id": 2,
-            "title": "Deepika Padukone EXUDES desi vibes with a modern touch in a white ruffle saree during the closing ceremony",
-            "Image": "https://funroundup.com/wp-content/uploads/2017/09/Deepika-Padukone-Hot-Photos.jpg",
-            "category": "Bollywood",
-            "description": "Gehraiyaan actress Deepika Padukone is among the few stars who are representing India at Cannes 2022. She is churning out some fabulous fashion stints leaving all her fans mesmerised. For the closing ceremony of the international film festival, the actress opted to go all desi. But not without a modern touch.After wearing some classic modern pieces, Deepika Padukone chose a Abu Jani-Sandeep Khosla creation to end her stint at Cannes 2022.The actress looked absolutely divine as walked the red carpet wearing this beautiful saree. The neckpiece made of pearls added much glam to the sweet saree.  The actress attended the press conference with other jury members Rebecca Hall and Jeff Nichols. Sticking to her roots, she greeted everyone with a namaste.Well, if this picture does not hypnotise you then we don't know what will. Subtle makeup, pearl earrings and more - the actress looked drop-dead gorgeous as ever."
-          },
+         
           {
             "id": 61,
             "title": "Deepika Padukone sizzeling desi vibes with a modern touch ",
@@ -31,10 +33,11 @@ const get = (req,res)=>{
           },
           {
             "id": 4,
-            "title": "Shah Rukh Khan, Salman Khan and Madhuri Dixit's selfie has fans recalling Hum Tumhare Hai Sanam",
-            "Image": "https://filmfare.wwmindia.com/content/2022/may/shahrukhkhan41653712635.jpg",
+            
+           "title": "Deepika Padukone EXUDES desi vibes with a modern touch in a white ruffle saree during the closing ceremony",
+            "Image": "https://funroundup.com/wp-content/uploads/2017/09/Deepika-Padukone-Hot-Photos.jpg",
             "category": "Bollywood",
-            "description": "Karan Johar's 50th birthday bash was one big star-studded celebration. The evening saw a bevvy of Bollywood celebrities making an appearance and with so many biggies coming together, reunions were inevitable. Now, a selfie of Shah Rukh Khan, Salman Khan and Madhuri Dixit has emerged and fans are obsessed.The picture from the party sees Salman Khan flanked by Madhuri Dixit and Shah Rukh Khan. Joining them were Madhuri's husband Shriram Nene and Shah Rukh Khan's wife Gauri Khan. The Fame Game star took to Instagram to share the priceless photo in a post captioned, “So much to talk about, right? @drneneofficial @iamsrk @beingsalmankhan @gaurikhan. Fans cannot get enough of the picture. One fan commented on the sheer star power and wrote, “All Legends in one frame”. While many were thrilled to get a glimpse of Shah Rukh Khan and Salman Khan together, others recalled that the two stars appeared alongside Madhuri Dixit in Hum Tumhare Hai Sanam. The 2002 film was a romantic drama that revolved around a love triangle. Moreover, the pic also sparked nostalgia for Hum Aapke Hai Koun which saw Madhuri and Salman share screen space in an iconic pairing.Karan Johar’s birthday bash had several memorable moments. While Shah Rukh Khan did not walk the red carpet, videos of him dancing like nobody’s watching on Koi Mil Gaya from Kuch Kuch Hota Hai surfaced later. Meanwhile, Salman Khan who was one of the last guests to arrive reportedly stayed at the party till the morning."
+            "description": "Gehraiyaan actress Deepika Padukone is among the few stars who are representing India at Cannes 2022. She is churning out some fabulous fashion stints leaving all her fans mesmerised. For the closing ceremony of the international film festival, the actress opted to go all desi. But not without a modern touch.After wearing some classic modern pieces, Deepika Padukone chose a Abu Jani-Sandeep Khosla creation to end her stint at Cannes 2022.The actress looked absolutely divine as walked the red carpet wearing this beautiful saree. The neckpiece made of pearls added much glam to the sweet saree.  The actress attended the press conference with other jury members Rebecca Hall and Jeff Nichols. Sticking to her roots, she greeted everyone with a namaste.Well, if this picture does not hypnotise you then we don't know what will. Subtle makeup, pearl earrings and more - the actress looked drop-dead gorgeous as ever."
           },
           {
             "id": 5,
