@@ -7,7 +7,7 @@ const get = (req,res)=>{
             "category": "Bollywood",
             "description": "Karan Johar's 50th birthday bash was one big star-studded celebration. The evening saw a bevvy of Bollywood celebrities making an appearance and with so many biggies coming together, reunions were inevitable. Now, a selfie of Shah Rukh Khan, Salman Khan and Madhuri Dixit has emerged and fans are obsessed.The picture from the party sees Salman Khan flanked by Madhuri Dixit and Shah Rukh Khan. Joining them were Madhuri's husband Shriram Nene and Shah Rukh Khan's wife Gauri Khan. The Fame Game star took to Instagram to share the priceless photo in a post captioned, “So much to talk about, right? @drneneofficial @iamsrk @beingsalmankhan @gaurikhan. Fans cannot get enough of the picture. One fan commented on the sheer star power and wrote, “All Legends in one frame”. While many were thrilled to get a glimpse of Shah Rukh Khan and Salman Khan together, others recalled that the two stars appeared alongside Madhuri Dixit in Hum Tumhare Hai Sanam. The 2002 film was a romantic drama that revolved around a love triangle. Moreover, the pic also sparked nostalgia for Hum Aapke Hai Koun which saw Madhuri and Salman share screen space in an iconic pairing.Karan Johar’s birthday bash had several memorable moments. While Shah Rukh Khan did not walk the red carpet, videos of him dancing like nobody’s watching on Koi Mil Gaya from Kuch Kuch Hota Hai surfaced later. Meanwhile, Salman Khan who was one of the last guests to arrive reportedly stayed at the party till the morning."
          
-              }
+              },
         {
             "id": 2,
             "title": "Ranbir Kapoor gets MASSIVELY TROLLED",
